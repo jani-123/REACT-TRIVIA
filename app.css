@@ -1,0 +1,52 @@
+body{
+  background-color: rgba(117, 183, 228, 0.98);
+  }
+  img{
+      width: 200px;
+      height: 200px;
+      margin-top: 40px;
+      margin-left: 40%;
+      margin-bottom: 40px;
+  }
+  .cajaPregunta{
+      border: 2px solid black; 
+      background-color: #D4E1F1;
+      margin: 20px 20px;
+      height: 280px;
+  }
+  .btnSubmit{
+      margin-left: 50%;
+  }
+  h3{
+      text-align: center;
+  }
+  .btnRespuestas {
+      margin-top: 30px;
+      margin-left: 140px;
+      color: white;
+      display: inline-block;
+      font-family: 'Lucida Sans', sans-serif;
+  }
+  button{
+      background-color: #3889F3;
+      margin-right: 40px;
+      width: 165px;
+  }
+  .redes{
+     margin-left: 45%;
+     margin-top: 40px;
+  }
+  .progress-bar{
+    width:0%;
+}
+.correcto{
+    color: green;
+}
+.incorrecto{
+    color: red;
+}
+.respuestasEchas{
+    font-family: 'Lucida Sans', sans-serif;
+    margin-left: 170px;
+}
+  
